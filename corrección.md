@@ -1,0 +1,2 @@
+Noté que el href de los estilos no se estaba aplicando, entonces reemplacé la url por el archivo local index.css y aplicó los cambios en el  diseño de la página.
+Por lo demás no vi problemas de malas prácticas o no supe identificarlos.
